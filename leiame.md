@@ -3,7 +3,7 @@
 </div>
 <H1>Flexbox_CSS</H1>
 
-## Pagina Inicial do Instagram - 2022
+## Página Inicial do Instagram - 2022
 
  <img src="./img/logo css.png" alt="Logo CSS" width="100"/> <img src="./img/logo flebox.png" alt="logo flebox" width="270"/>
  
